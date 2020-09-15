@@ -20,3 +20,6 @@ nano - (create or oopen to edit a text file or html)
 pwd - print working directory / find where i am,
 
 	
+CRICKEY 
+
+Update 2.18pm - this is a branch
