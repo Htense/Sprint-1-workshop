@@ -1,0 +1,25 @@
+Surely! 9th time is a CHARM
+
+flections.txt
+In a couple of sentences, how would you describe the command line in plain English? 	
+It is like a very dark room version of my Mac, but once i get the hang of it I know I will be able to see faster n the dark than i usually can in the light.
+
+Can you think of an analogy for it?
+Same as above - It is similar to excel, feels like you are under cover or in the vents.
+
+Did you stick to the timebox guidelines? If not, what change would you make next time?
+
+Absolutely not! I havnt studied for a while so i just kept playing until i got it - have been working on this for a few hours, very satisfying once I got it.
+
+Name 5 commands you used, and what they do
+
+ls - List Directories - / what is in the room?
+cd - Change Directory - cd .. go back one
+mkdir - Make directory
+nano - (create or oopen to edit a text file or html)
+pwd - print working directory / find where i am,
+
+	
+CRICKEY 
+
+Update 2.18pm - this is a branch
